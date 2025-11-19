@@ -1,0 +1,263 @@
+[
+  {
+    "questionText": "Who Created Flutter ?",
+    "correctAnswerId": "answer_3",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Adobe",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Facebook",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Google",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Microsoft",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "What programming language is used for Android development?",
+    "correctAnswerId": "answer_2",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Java",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Kotlin",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Swift",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Python",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "What is the name of Google's mobile operating system?",
+    "correctAnswerId": "answer_1",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Android",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "iOS",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Windows Phone",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "BlackBerry OS",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "Which company developed React Native?",
+    "correctAnswerId": "answer_2",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Google",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Facebook",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Microsoft",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Apple",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "What does API stand for?",
+    "correctAnswerId": "answer_3",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Application Programming Interface",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Advanced Programming Interface",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Application Programming Interface",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Automated Programming Interface",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "Which database is used by Firebase?",
+    "correctAnswerId": "answer_1",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Firestore",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "MySQL",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "PostgreSQL",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "MongoDB",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "What is the latest version of Android as of 2024?",
+    "correctAnswerId": "answer_4",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Android 12",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Android 13",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Android 14",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Android 15",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "Which tool is used to build Android apps?",
+    "correctAnswerId": "answer_2",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Xcode",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Android Studio",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Visual Studio",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Eclipse",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "What is the name of Apple's mobile operating system?",
+    "correctAnswerId": "answer_1",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "iOS",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Android",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Windows Mobile",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Symbian",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "questionText": "Which language is primarily used for iOS development?",
+    "correctAnswerId": "answer_3",
+    "answers": [
+      {
+        "id": "answer_1",
+        "text": "Java",
+        "number": 1
+      },
+      {
+        "id": "answer_2",
+        "text": "Kotlin",
+        "number": 2
+      },
+      {
+        "id": "answer_3",
+        "text": "Swift",
+        "number": 3
+      },
+      {
+        "id": "answer_4",
+        "text": "Objective-C",
+        "number": 4
+      }
+    ]
+  }
+]
+
